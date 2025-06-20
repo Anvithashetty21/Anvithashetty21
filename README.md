@@ -1,12 +1,20 @@
 🌟 About Me
-Hello, I'm Anvitha, a data science enthusiast with a strong foundation in the pharmaceutical and healthcare industries. Leveraging my expertise in pharma analytics and data-driven insights, I've successfully delivered over 20 projects for leading pharmaceutical companies. Recently, I enhanced my skill set by completing the Master Data Science Program at Guvi.
+Hi, I’m Anvitha — a data science enthusiast with a strong background in the pharmaceutical and healthcare industries. I've successfully delivered 20+ data analytics projects for leading pharma companies, focusing on extracting actionable insights and supporting business decisions.
 
-With proficiency in Python, Power BI, Machine Learning, MySQL, and SAS, I enjoy turning data into actionable insights to solve real-world business problems. My passion lies in applying innovative solutions, like automating processes and improving user experiences, to create impactful results. I'm also an avid researcher with publications in green synthesis and bioactive functional beverages.
+I built my technical foundation during my Master Data Science Program (Guvi), gaining hands‑on experience with Python, Power BI, Machine Learning, and MySQL. During my engineering studies, I learned SAS, and in my previous role, I leveraged Excel extensively to transform complex data into meaningful insights.
 
-✨ Skills & Interests
+I’m passionate about applying analytics and automation to solve real‑world business challenges. An avid researcher, I’ve also published work in green synthesis and bioactive functional beverages.
 
-Data Analysis & Visualization
-Machine Learning & Bio Computing
-Pharma Analytics
-Market Research & Client Presentation
-🌐 Explore my projects and repositories to see how I merge science, technology, and analytics to drive impactful outcomes!
+🌟 Skills & Interests
+
+📊 Data Analysis & Visualization (Python, Power BI, Excel)
+
+🤖 Machine Learning & Automation (Python)
+
+⚕️ Pharma & Healthcare Analytics
+
+🗣️ Market Research & Stakeholder Communication
+
+🧪 Research & Technical Writing
+
+🌐 Explore my repositories to see how I merge science, technology, and data analytics to deliver impactful results!
