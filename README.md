@@ -1,4 +1,5 @@
 🌟 About Me
+
 Hi, I’m Anvitha — a data science enthusiast with a strong background in the pharmaceutical and healthcare industries. I've successfully delivered 20+ data analytics projects for leading pharma companies, focusing on extracting actionable insights and supporting business decisions.
 
 I built my technical foundation during my Master Data Science Program (Guvi), gaining hands‑on experience with Python, Power BI, Machine Learning, and MySQL. During my engineering studies, I learned SAS, and in my previous role, I leveraged Excel extensively to transform complex data into meaningful insights.
